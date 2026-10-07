@@ -1,0 +1,8 @@
+-e .
+pytest>=8.0
+streamlit>=1.34
+streamlit
+pandas
+numpy
+scikit-learn
+pillow
